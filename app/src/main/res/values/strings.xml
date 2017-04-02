@@ -21,7 +21,6 @@
     <string name="connecting">Connecting…</string>
     <string name="connected_formatted">Connected to %s</string>
     <string name="connecting_formatted">Connecting to %s</string>
-    <string name="percentage">%d %%</string>
 
     <string name="connected_icon">Connected icon</string>
     <string name="battery_info_icon">Battery info icon</string>
@@ -29,6 +28,7 @@
     <string name="finder_icon">Finder icon</string>
     <string name="settings_icon">Settings icon</string>
     <string name="weather_icon">Weather icon</string>
+    <string name="time_icon">Time icon</string>
 
     <string name="grab_a_screenshot">Grab a screenshot</string>
 
@@ -43,4 +43,10 @@
 
     <string name="weather_settings">Weather settings</string>
     <string name="enter_city_name">Enter a city name:</string>
+    <string name="unpair">Unpair</string>
+    <string name="scanning">Scanning...</string>
+    <string name="downloading">Downloading...</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="screenshot">Screenshot</string>
+    <string name="synchronize_time">Synchronize time</string>
 </resources>

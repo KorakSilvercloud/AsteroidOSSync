@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources><string name="uhoh_message_nuke_cancel">Anuluj</string>
+<resources>
     <string name="connecting">Łączenie…</string>
     <string name="notifications_settings">Ustawienia powiadomień</string>
     <string name="notifications">Powiadomienia</string>
-    <string name="title_device_list">Urządzenia</string>
     <string name="searching">Wyszukiwanie zegarków</string>
     <string name="unknown_device">Nieznany</string>
     <string name="nothing_found">Nie znaleziono zegarków</string>
@@ -12,10 +11,9 @@
     <string name="enter_city_name">Wpisz nazwę miasta:</string>
 <string name="grab_a_screenshot">Wykonaj zrzut ekranu</string>
     <string name="connected_formatted">Połączono z %s</string>
-    <string name="notifications_enablement"/>
+    <string name="notifications_enablement">Jeżeli chcesz synchronizować powiadomienia ze swoim zegarkiem, aplikacja musi otrzymać od ciebie zezwolenie na dostęp do nich.</string>
     <string name="not_supported">Ta funkcja nie została jeszcze ukończona</string>
     <string name="connecting_formatted">Trwa łączenie z %s</string>
-    <string name="ok">OK</string>
     <string name="disconnected">Rozłączono</string>
     <string name="connected">Połączono</string>
     <string name="connected_icon">Ikona połączenia</string>
@@ -23,4 +21,12 @@
     <string name="screenshot_icon">Ikona zrzutu ekranu</string>
     <string name="settings_icon">Ikona ustawień</string>
     <string name="generic_ok">OK</string>
+    <string name="generic_cancel">Anuluj</string>
+    <string name="find_my_watch">Znajdź mój zegarek</string>
+
+    <string name="ble_not_supported">Wygląda na to, że Bluetooth Low Energy nie jest wspierany na tym urządzeniu</string>
+    <string name="weather_icon">Ikona aplikacji prognozy pogody</string>
+
+    <string name="phone_is_searching">Telefon próbuje zlokalizować to urządzenie!</string>
+
     </resources>
